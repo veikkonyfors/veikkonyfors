@@ -1,6 +1,7 @@
 - :man: Hi, I’m @veikkonyfors
 - :heartbeat: I’m interested in Quantum Mechanics and - Computing, along with Scientific Computing in general.
 - :globe_with_meridians: Striving to sustainable world with meeker mind.
+- :cold_sweat: Definitely LOOKING UP
 
 <!---
 veikkonyfors/veikkonyfors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
